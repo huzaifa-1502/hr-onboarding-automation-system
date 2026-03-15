@@ -4,6 +4,7 @@
 - Full Name: Huzaifa Ahmed
 - Email: huzaifafabi15@gmail.com
 - LinkedIn: https://www.linkedin.com/in/huzaifa-ahmed-b15214225/
+- Airtable Base Link: https://airtable.com/appAzUsisuj0MTmgG/shroD94ZCpWpax061
 - Submission Date: March 15th, 2026.
 
 ## Task 1: Intermediate Airtable Skills
